@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fuel consumption</string>
+    <string name="gasolina">Gasoline</string>
+    <string name="alcool">Alcohol</string>
+    <string name="combustivelMaisEconomico">Most economical fuel</string>
+    <string name="calcular">CALCULATE</string>
+    <string name="informacao">According to the National Petroleum Agency (ANP) it is only worthwhile to supply with alcohol if the value is up to 70% the value of gasoline</string>
+    <string name="informarValor">It is necessary to inform the values</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Consumo de Combustível</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="alcool">Álcool</string>
+    <string name="digite">Digite Aqui</string>
+    <string name="combustivelMaisEconomico">Combustível mais econômico</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="informacao">Conforme a Agencia Nacional de Petróleo (ANP) só vale a pena você abastecer com ácool se o valor for até 70% o valor da gasolina</string>
+    <string name="informarValor">É necessario informar os valores</string>
+    <string name="mascara">R$0,00</string>
+</resources>
